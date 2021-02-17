@@ -1,12 +1,12 @@
 {
 	"users":[
 		{
-			"id": "some@gmail.com"
+			"id": "some@gmail.com",
 			"nickname": "Nick",
 			"password": 123456
 		},
 		{
-			"id": "jperez@gmail.com"
+			"id": "jperez@gmail.com",
 			"nickname": "JP",
 			"password": 123456
 		}
